@@ -17,6 +17,7 @@ FairVocals is a web application that allows users to record singers, preview the
 
 ### Home Page
 ![Home Page](screenshot/home1.png)
+### 
 ![Home Page2](screenshot/home12.png)
 
 ## 🛠 Tech Stack
