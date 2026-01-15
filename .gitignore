@@ -1,0 +1,11 @@
+# Node
+fairvocals-client/node_modules/
+fairvocals-client/build/
+
+# Python
+server/venv/
+__pycache__/
+*.pyc
+
+# Uploads (optional)
+server/uploads/
